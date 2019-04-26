@@ -1,4 +1,4 @@
-# Umbra-Wallet
+# Umbra-Mobile-Wallet incomplete. Not ready for any use. 
 
 
 
